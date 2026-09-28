@@ -8,7 +8,7 @@
 ╚═╝╚═╝         ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                 Real-Time IP Geolocation Tracker
       Author: Cyber Squad CST | Developer: MD. IMRAN HOSSEN
-        🔗 GitHub Link: https://github.com/RanaCoding-cs
+        🔗 GitHub Link: https://github.com/Cyber-Squad-CST
      ⚠️ Disclaimer: Educational purpose only! | Happy Coding
 
 =====================================================================
