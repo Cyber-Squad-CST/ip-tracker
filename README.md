@@ -7,7 +7,7 @@
 ██║██║         ██║   ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║
 ╚═╝╚═╝         ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                 Real-Time IP Geolocation Tracker
-          Author: RanaCoding-cs | Developer: RANA VHAI
+      Author: Cyber Squad CST | Developer: MD. IMRAN HOSSEN
         🔗 GitHub Link: https://github.com/RanaCoding-cs
      ⚠️ Disclaimer: Educational purpose only! | Happy Coding
 
